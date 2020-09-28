@@ -104,7 +104,8 @@ hr.star-primary:after {
     background-color: lightgrey;
 }
 
-@media (max-width: 990px) {
+@media (max-width: 700px) {
+  
   .dp{
     width: 25%;
   }
