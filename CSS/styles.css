@@ -106,7 +106,7 @@ hr.star-primary:after {
 
 @media (max-width: 990px) {
   .dp{
-    width: 35%;
+    width: 25%;
   }
   .col-fm{
     text-align: center;
